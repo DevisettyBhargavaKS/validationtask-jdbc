@@ -12,7 +12,9 @@
         crossorigin="anonymous"
     />
 </head>
-<body>
+<body style="background-color:#92a8d1">
+
+
     <div class="container mt-5">
         <h3 class="text-center">Welcome to Our Student Details</h3>
         <div class="row mt-4">
@@ -37,5 +39,6 @@
         integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
         crossorigin="anonymous"
     ></script>
+
 </body>
 </html>

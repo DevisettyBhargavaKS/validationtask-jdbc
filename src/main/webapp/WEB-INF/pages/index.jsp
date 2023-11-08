@@ -20,18 +20,18 @@
     ></script>
   </head>
 
-  <body>
+  <body style="background-color:#E6E6FA">
     <br />
     <br />
     <br />
-    <div class="container  col-4 mt-5 border rounded  ">
+    <div class="container  col-4 mt-5 border border-warning rounded-solid width-5px  ">
       <form method="post" action="login" >
         <h3 class="text-center mb-4 mt-3 text-decoration-underline">Login</h3>
 
         <!-- Email input -->
         <div class="form-outline mt-5 mb-3">
             <label class="form-label" for="form2Example1">Firstname</label>
-          <input type="text" id="Email" name="Firstname" class="form-control border-0 border-bottom w-75 ms-5 " />
+          <input type="text" id="Email" name="Firstname" class="form-control border-10 border-bottom w-75 ms-5 " />
 
         </div>
 
@@ -53,7 +53,7 @@
 <!-- Submit button -->
         <div class="w-100 d-flex justify-content-center  "btn>
 
-         <input type="submit" value="login" class="btn btn-primary btn-block mb-4 w-100 px-5  mt-3">
+         <input type="submit" value="login" class="btn btn-outline-success btn-block mb-4 w-100 px-5  mt-3">
 
           <br />
     <br />

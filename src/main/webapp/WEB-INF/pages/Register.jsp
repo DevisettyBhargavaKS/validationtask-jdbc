@@ -18,7 +18,7 @@
       crossorigin="anonymous"
     ></script>
 </head>
-<body>
+<body style="background-color:rgba(201, 76, 76, 0.3)">
     <div class="container mt-5">
         <div class="card">
             <div class="card-header">
@@ -103,7 +103,7 @@
 
                     </div>
 
-                    <button type="submit" class="btn btn-primary w-100%">Register</button>
+                    <button type="submit" class="btn btn-success w-100%">Register</button>
                     <br>
 
 
